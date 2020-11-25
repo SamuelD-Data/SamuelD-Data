@@ -1,3 +1,5 @@
+![Profile-Header](https://i.ibb.co/87RBT1h/banner.png)  
+
 ## *About Me*
 I'm a data scientist with professional experience in <ins>project management</ins>, <ins>team leadership</ins>, and <ins>client support</ins>.
 
@@ -13,3 +15,5 @@ My interests include spending time with my family, trying new foods, and going d
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelD-Data" width=400/>
 </a>  
+
+
