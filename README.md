@@ -1,5 +1,5 @@
 ## *Connect With Me*
-<font size="15"><a href="mailto:samuelrdavila@gmail.com">Email</a></font>| [LinkedIn](https://www.linkedin.com/in/davilasamuel/)
+<font size="+5"><a href="mailto:samuelrdavila@gmail.com">EMAIL</a></font> | [LINKEDIN](https://www.linkedin.com/in/davilasamuel/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SamuelD-Data&show_icons=true" width=400/>
