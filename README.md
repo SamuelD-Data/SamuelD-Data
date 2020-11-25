@@ -1,4 +1,4 @@
-![Profile-Header](https://i.ibb.co/87RBT1h/banner.png)  
+![Profile-Header](https://i.ibb.co/nmyT8fS/banner.png)  
 
 ## *About Me*
 I'm a data scientist with professional experience in <ins>project management</ins>, <ins>team leadership</ins>, and <ins>client support</ins>.
