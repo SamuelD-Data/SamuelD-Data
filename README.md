@@ -1,4 +1,6 @@
-# Readme for profile
+## *Connect With Me*
+<a href="mailto:samuelrdavila@gmail.com">Email</a> | [LinkedIn](https://www.linkedin.com/in/davilasamuel/)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SamuelD-Data&show_icons=true" width=400/>
 </a>  
