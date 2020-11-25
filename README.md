@@ -1,3 +1,8 @@
+## *About Me*
+I'm a data scientist with professional experience in <ins>project management</ins>, <ins>team leadership</ins>, and <ins>client support</ins>.
+
+My interests include spending time with my family, trying new foods, and going down YouTube rabbit holes 🐇.
+
 ## *Connect With Me*
 <font size="+5"><a href="mailto:samuelrdavila@gmail.com">EMAIL</a></font> | [LINKEDIN](https://www.linkedin.com/in/davilasamuel/)
 
