@@ -16,6 +16,6 @@ My interests include spending time with my family, trying new foods, and working
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelD-Data" width=400/>
-</a>  
+</a>   
 
 
