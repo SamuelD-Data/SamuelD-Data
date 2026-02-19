@@ -6,7 +6,4 @@ I'm a data scientist with professional experience in <ins>team leadership</ins>,
 
 My interests include spending time with my family, trying new foods, and working on various side projects.
 
-## *Connect With Me*
-<font size="+5"><a href="mailto:samuelrdavila@gmail.com">EMAIL</a></font> | [LINKEDIN](https://www.linkedin.com/in/davilasamuel/)
-
 
